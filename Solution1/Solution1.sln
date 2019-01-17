@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{979339A6-1D27-4541-BE74-1F3F2311D42C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{09450C07-487D-4578-A4D9-EE2256FA600A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{979339A6-1D27-4541-BE74-1F3F2311D42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{979339A6-1D27-4541-BE74-1F3F2311D42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{979339A6-1D27-4541-BE74-1F3F2311D42C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{09450C07-487D-4578-A4D9-EE2256FA600A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09450C07-487D-4578-A4D9-EE2256FA600A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09450C07-487D-4578-A4D9-EE2256FA600A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09450C07-487D-4578-A4D9-EE2256FA600A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
